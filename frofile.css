@@ -86,6 +86,10 @@ h1 {
     color: #282828;
     padding-left: 16px;
  }
+ .desc-link {
+    font-size: 9px;
+    color: #282828;
+ }
 
  .title-box {
      text-align: right;
