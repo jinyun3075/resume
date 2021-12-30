@@ -14,13 +14,13 @@ body {
 }
 
 h1 {
-    font-size: 36px;
+    font-size: 46px;
     font-weight:bold;
     font-style: italic;
     margin-bottom: 8px;
 }
  h2 {
-     font-size: 20px;
+     font-size: 30px;
      font-weight: lighter;
      color:#282828;
      border-bottom: 1px solid #ebebeb;
@@ -35,7 +35,7 @@ h1 {
  }
 
  .mainbox {
-     width: 610px;
+     width: 800px;
      padding: 30px;
      margin: 30px;
      margin-right: auto;
@@ -57,19 +57,19 @@ h1 {
  }
 
  .about-me-text {
-     font-size:10px;
-     line-height: 16px;
+     font-size: 20px;
+     line-height: 26px;
  }
  
  .title-text {
-     font-size: 11px;
+     font-size: 25px;
      font-weight: bold;
      color: #282828;
      float: left;
  }
 
  .year-text {
-     font-size: 11px;
+     font-size: 15px;
      font-weight: bold;
      color: #282828;
      float: right;
@@ -79,10 +79,10 @@ h1 {
      overflow: hidden;
  }
  .desc-text {
-    font-size: 9px;
+    font-size: 20px;
  }
  .desc-subtext {
-    font-size: 9px;
+    font-size: 14px;
     color: #282828;
     padding-left: 16px;
  }
@@ -97,8 +97,8 @@ h1 {
  }
 
  .sns-img {
-     width: 20px;
-     height: 20px;
+     width: 40px;
+     height: 40px;
  }
 
  .sns-wrap {
